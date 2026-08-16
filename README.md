@@ -19,12 +19,12 @@ include themes/rEFInd-dark-theme/theme.conf
 Example manual menuentries:
 
 ```plantuml
-menuentry &quot;NixOS&quot; {
+menuentry "NixOS" {
     icon /EFI/refind/themes/rEFInd-dark-theme/icons/os_nixos.png
     loader /EFI/NixOS-boot/grubx64.efi
 }
 
-menuentry &quot;Windows&quot; {
+menuentry "Windows" {
     icon /EFI/refind/themes/rEFInd-dark-theme/icons/os_win.png
     loader /EFI/Microsoft/Boot/bootmgfw.efi
 }
