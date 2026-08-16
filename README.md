@@ -6,11 +6,12 @@ Forked from [andersfischernielsen/rEFInd-minimal-black](https://github.com/ander
 
 ## Installation
 
-Copy the theme files to your ESP: `/boot/EFI/refind/themes/rEFInd-dark-theme/`
+1. Copy the theme files to your ESP:
+```plantuml
+/boot/EFI/refind/themes/rEFInd-dark-theme/
+```
 
-
-Then add this to your `refind.conf`:
-
+2. Then add this to your `refind.conf`:
 ```conf
 include themes/rEFInd-dark-theme/theme.conf
 ```
@@ -29,7 +30,7 @@ menuentry &quot;Windows&quot; {
 }
 ```
 
-Just make sure your icon paths point at themes/rEFInd-dark-theme/icons/<os_icon.png>.
+Just make sure your icon paths point at `themes/rEFInd-dark-theme/icons/<os_icon.png>`.
 
 ## Credits
 
