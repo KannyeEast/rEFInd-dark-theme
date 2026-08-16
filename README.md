@@ -36,4 +36,4 @@ Just make sure your icon paths point at `themes/rEFInd-dark-theme/icons/<os_icon
 
 - Original theme: [evanpurkhiser/rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal)
 - Dark theme: [andersfischernielsen/rEFInd-minimal-black](https://github.com/andersfischernielsen/rEFInd-minimal-black)
-- Icons [SWOriginal](https://www.deviantart.com/sworiginal/art/Lightness-for-burg-181461810)
+- Icons: [SWOriginal](https://www.deviantart.com/sworiginal/art/Lightness-for-burg-181461810)
